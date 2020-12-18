@@ -1,4 +1,4 @@
-FROM nikolaik/python-nodejs:python3.7-nodejs12-stretch
+FROM nikolaik/python-nodejs:python3.8-nodejs12
 
 SHELL ["/bin/bash", "-c"]
 
